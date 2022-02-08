@@ -1,4 +1,21 @@
-# Getting Started with Create React App
+# GETİR-CLONE
+
+Bu Repositories'te getir.com sitesinin klonu yer almaktadır.
+
+## Live Demo
+
+*[Live Demo](https://trusting-feynman-fa90a6.netlify.app/)*
+
+## Used Technologies 
+
++ React.Js
++ Tailwind
+
+## Resources that I have used
+
++ [Video Linki](https://www.youtube.com/playlist?list=PLfAfrKyDRWrE4Xl7eWBFdC92pOwywbb3e)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
