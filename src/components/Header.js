@@ -7,7 +7,7 @@ export default function Header() {
   return (
     <>
       <div className="bg-brand-color">
-        <div className="container mx-auto px-2 md:px-4 lg:px-8 h-16 md:h-11 flex items-center justify-center md:justify-between">
+        <div className="container mx-auto h-16 md:h-11 flex items-center justify-center md:justify-between">
           <nav className="flex gap-x-2 font-semibold self-end">
             <a
               href="#"
