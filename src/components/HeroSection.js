@@ -33,7 +33,7 @@ export default function HeroSection() {
         <Slider {...settings}>
           <div>
             <img
-              className="w-full h-[500px] overflow-x-hidden"
+              className="w-full h-[500px] overflow-x-hidden object-cover"
               src="https://getir.com/_next/static/images/getir-mainpage-4-1751ad2d8fb42a88742d6751938da7e7.jpg"
             />
           </div>
